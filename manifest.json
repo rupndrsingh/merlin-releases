@@ -1,0 +1,13 @@
+{
+  "version": "0.3.5",
+  "android": {
+    "file": "merlin-0.3.5.apk",
+    "sha256": "a3293579906482f53526d707fd2f2d766cbd518b0adad091a2c6f7fa3ddab5fb",
+    "size": 10481648
+  },
+  "windows": {
+    "file": "Merlin-0.3.5.msi",
+    "sha256": "470f5a5ceb80d5c4cc3e9043fd4f6a6b5d613191ec27fa70e14518cdd0d36244",
+    "size": 65475024
+  }
+}
